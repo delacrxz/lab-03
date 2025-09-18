@@ -2,11 +2,14 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://developer.android.com/reference/android/app/AlertDialog.Builder#setView(int)
+https://developer.android.com/reference/android/widget/AdapterView.OnItemClickListener#onItemClick(android.widget.AdapterView%3C?%3E,%20android.view.View,%20int,%20long)
+https://developer.android.com/reference/androidx/fragment/app/DialogFragment#show(androidx.fragment.app.FragmentManager,%20java.lang.String)
+https://developer.android.com/reference/android/os/Bundle
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Amelia Tessier`    | `atessie` |
+
